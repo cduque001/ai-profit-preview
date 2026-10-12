@@ -1,0 +1,71 @@
+{
+  "retrieved": "2026-10-12",
+  "license_url": "https://www.pexels.com/license/",
+  "usage": "Illustrative stock of detailing and desk work. Does not depict interviewed customers, actual trial outcomes, or product endorsements. Logos unmodified.",
+  "clips": "Steam source 1–7s and worker source 2–8s decoded to WebP at24fps, preserving full framing, for deterministic silent playback. New vacuum/brush/phone source1–7s decoded24fps at1280px width; originals retained; cover crops chosen per shot.",
+  "items": [
+    {
+      "file": "assets/claude.svg",
+      "title": "Claude mark",
+      "source": "Existing shared asset library assets/brand/claude.svg",
+      "license": "Anthropic trademark, unmodified",
+      "sha256": "8d4e347d58a52ba1a21f29fb19c94a955b4bf3b8e956ce4eea5794fdbaa72b80"
+    },
+    {
+      "file": "assets/chatgpt.svg",
+      "title": "ChatGPT mark",
+      "source": "Existing shared asset library assets/brand/chatgpt.svg",
+      "license": "OpenAI trademark, unmodified",
+      "sha256": "5a8dad2864cc1c8109ebae74bea447df2f30b978bdad56749247c406e1cb2227"
+    },
+    {
+      "file": "assets/detail-steam.mp4",
+      "title": "Ivan Kazlouski, Cleaning Car Interior",
+      "source": "https://www.pexels.com/video/cleaning-car-interior-12370189/",
+      "license": "Pexels License",
+      "sha256": "6c589bc380d93db8ca84e67505fab8e95f7ca5f9412d63824423825edc77eb50"
+    },
+    {
+      "file": "assets/detail-worker-source.mp4",
+      "title": "Tima Miroshnichenko, Man Cleaning the Car Interior",
+      "source": "https://www.pexels.com/video/man-cleaning-the-car-interior-6873160/",
+      "license": "Pexels License",
+      "sha256": "16d17eebf3aef1e05d8e3c95f4dc0d9e28622b1b7dd4e0d1a0e00fcd4bfe7148"
+    },
+    {
+      "file": "assets/detailers-workshop.jpg",
+      "title": "Bulat843, Car Detailing Professionals Working Indoors",
+      "source": "https://www.pexels.com/photo/car-detailing-professionals-working-indoors-31154217/",
+      "license": "Pexels License",
+      "sha256": "a3d09b6e2b09f4b1e83332dec8ab160af1a798fb343713f5b6c0c1dec1c880d6"
+    },
+    {
+      "file": "assets/founder-laptop.jpg",
+      "title": "Mikhail Nilov, A Person Using a Laptop While Drinking Coffee",
+      "source": "https://www.pexels.com/photo/a-person-using-a-laptop-while-drinking-coffee-6930892/",
+      "license": "Pexels License",
+      "sha256": "f428cf72e847ac5bae3b70b2acd64d539bf15d48d9563a66f9390d0855c049c3"
+    },
+    {
+      "file": "assets/vacuum-source.mp4",
+      "title": "Gustavo Fring, A Man Cleaning The Inside Of A Car",
+      "source": "https://www.pexels.com/video/a-man-cleaning-the-inside-of-a-car-4822916/",
+      "license": "Pexels License",
+      "sha256": "ef2998740128f7d0e3d4b22d6a09dd6166d49e8c1f3f05a8b6dc950f7b81b9d4"
+    },
+    {
+      "file": "assets/brush-source.mp4",
+      "title": "Pavel Danilyuk, A Person Detailing the Interior of the Car",
+      "source": "https://www.pexels.com/video/a-person-detailing-the-interior-of-the-car-6158073/",
+      "license": "Pexels License",
+      "sha256": "bc1106281e75e872c951d98b3a2883a98732252952ecfca00208a7527de15f02"
+    },
+    {
+      "file": "assets/phone-source.mp4",
+      "title": "Ivan S, A Man using Smartphone",
+      "source": "https://www.pexels.com/video/a-man-using-smartphone-7252631/",
+      "license": "Pexels License",
+      "sha256": "63072a56976b49a8c6bb22264bebaa094d3a8cf9c43ebc018a53ef0337b76f5f"
+    }
+  ]
+}
